@@ -1,0 +1,27 @@
+.images img {
+    width: 20%;
+    height: 20%;
+    margin-top: 20px;
+    margin-right: 10px;
+    
+}
+
+h3 {
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+article {
+    padding:0px;
+    display: block;
+}
+
+p{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+
+li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style:oblique;
+}
